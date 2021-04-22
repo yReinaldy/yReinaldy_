@@ -1,6 +1,8 @@
 README.
 
-👋 Salve guys!
+👋 hello guys!
 
-☕ Desenvolvedor : **Java**, 
-🤖 Desenvolvedor : **JavaScript**
+I am an expert in programming languages;
+
+☕ **Java**, 
+🤖 **JavaScript**
